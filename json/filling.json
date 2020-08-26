@@ -2,21 +2,21 @@
     {
         "productName":"С сыром",
         "productPrice":10,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem1.jpg",
+        "productImg":"https://raw.githubusercontent.com/serzhkish/static/master/img/cheese.jpg",
 		"calories":20,
         "productId":"s_0"
     },
     {
         "productName":"С салатом",
         "productPrice":20,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        "productImg":"https://raw.githubusercontent.com/serzhkish/static/master/img/salad.jpg",
 		"calories":5,
         "productId":"s_1"
     },
 	{
         "productName":"С картофелем",
         "productPrice":15,
-        "productImg":"https://raw.githubusercontent.com/kellolo/static/master/img/JS1_shop/featuredItem2.jpg",
+        "productImg":"https://raw.githubusercontent.com/serzhkish/static/master/img/fries.jpg",
 		"calories":10,
         "productId":"s_2"
     },
